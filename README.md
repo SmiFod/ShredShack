@@ -127,6 +127,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-- **Your Name** - Developer and Maintainer.
+Sami
 
-Feel free to contribute to this project by submitting issues or pull requests!
